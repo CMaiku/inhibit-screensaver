@@ -1,0 +1,6 @@
+inhibit-screensaver
+===================
+
+Inhibits Gnome-Shell's screensaver for the duration of the wrapped program execution
+
+usage: ./inhibit-screensaver.py <program-to-wrap> [arguments to pass to program]
